@@ -25,7 +25,7 @@ module.exports = {
     },
     sepolia: {
       url: RPC_URL,
-      accounts: ["c12238b6ac2e60ebf5e94d12dc0d8f7a1f4f56138606686d8e7136c28d0b7b16"],
+      accounts: [PRIVATE_KEY],
       chainId: 11155111,
       blockConfirmations: 6
     },
